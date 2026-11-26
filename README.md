@@ -1,4 +1,4 @@
-# polychronidis-neurology.gr
+# neurosynapse.gr
 
 Jekyll site (built automatically by GitHub Pages — no local setup needed).
 
@@ -21,7 +21,7 @@ Jekyll site (built automatically by GitHub Pages — no local setup needed).
 layout: default
 title: "…"
 description: "…"
-canonical: "https://polychronidis-neurology.gr/pages/xxx.html"
+canonical: "https://neurosynapse.gr/pages/xxx.html"
 css: [content]            # which CSS bundles the page needs (base is always loaded)
 scripts: [maps]           # optional: maps | lightbox
 jsonld: |                 # optional: structured data for <head>
